@@ -1,3 +1,5 @@
-name: Your New Jekyll Site
+name: Ninja Q & A Tutorial
 markdown: redcarpet
+lsi: false
+safe: true
 pygments: true
