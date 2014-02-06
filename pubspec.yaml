@@ -1,0 +1,7 @@
+name: NinjaQA
+version: 0.0.1
+author: Matthew Butler
+description: A sample Angular application
+dependencies:
+  angular: any
+  browser: any
