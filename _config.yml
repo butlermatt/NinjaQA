@@ -1,4 +1,6 @@
 name: Ninja Q &amp; A Tutorial
 markdown: redcarpet
+lsi: false
+safe: true
 pygments: true
 lsi: true
