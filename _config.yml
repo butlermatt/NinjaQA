@@ -4,3 +4,4 @@ lsi: false
 safe: true
 pygments: true
 lsi: true
+baseurl: /NinjaQA
